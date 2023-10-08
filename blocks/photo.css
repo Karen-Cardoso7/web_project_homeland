@@ -1,0 +1,25 @@
+.photo-galery {
+    max-width: 90%;
+    display: grid;
+    margin: 0 auto;
+    grid-template-columns: repeat(4, auto);
+    gap: 16px;
+    width: 1184px;
+}
+
+.photo-galery__img {
+    width: 100%; 
+}
+
+@media screen and (max-width: 980px) {
+    .photo-galery {
+        grid-template-columns: auto auto;
+        max-width: 95%;
+    }
+}
+
+@media screen and (max-width: 544px) {
+    .photo-galery {
+        grid-template-columns: auto;
+    }
+}
