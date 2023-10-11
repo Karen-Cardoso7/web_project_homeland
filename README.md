@@ -11,5 +11,5 @@ CSS3: Utilizamos as técnicas mais recentes do CSS para dar estilo e vida ao nos
 Metodologia de Nomenclatura
 Com o intuito de manter nosso código organizado e legível, adotamos a metodologia BEM (Block, Element, Modifier) para nomear classes. Isso assegura uma estrutura mais modular e simplifica a manutenção do código no futuro.
 
-[Visite meu site]
+[Visite meu site] https://karen-cardoso7.github.io/web_project_homeland/
 
